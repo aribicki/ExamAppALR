@@ -11,7 +11,7 @@ import com.google.devtools.simple.runtime.components.android.Label;
 import com.google.devtools.simple.runtime.components.android.HorizontalArrangement;
 import com.google.devtools.simple.runtime.components.android.TextBox;
 import com.google.devtools.simple.runtime.components.android.AccelerometerSensor;
-
+// the accelerometerSensor that is imported is not needed for this app!
 import com.google.devtools.simple.runtime.events.EventDispatcher;
 
 public class ExamActivity extends Form implements HandlesEventDispatching {
